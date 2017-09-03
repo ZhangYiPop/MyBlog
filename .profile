@@ -1,1 +1,1 @@
-pushZ = `git push origin master`
+alias pushZ = `git push origin master`
