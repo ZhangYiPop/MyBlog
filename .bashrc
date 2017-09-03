@@ -1,4 +1,5 @@
 alias pz="git push origin master"
 alias ws="cd ~/workspace"
 alias de="cd /Users/admin/Desktop"
+alias rsy="rsync -avzS --partial /Users/admin/Library/Mobile\ Documents/iCloud~com~coderforart~iOS~MWeb/Documents /Users/admin/Desktop/MyBlog"
 alias blog="cd /Users/admin/Desktop/MyBlog"
